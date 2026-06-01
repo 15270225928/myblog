@@ -130,7 +130,5 @@ feed:
   content_limit_delim: ' '
   order_by: -date
 
-# Hexo Pro
-hexo_pro:
-  username: wenxixixi04
-  password: ***REMOVED***
+# Hexo Pro - 账号密码已迁移至 data/users.db，不再在此配置
+hexo_pro: {}
